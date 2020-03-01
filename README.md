@@ -8,9 +8,17 @@ Free Code Camp HTML
 
   <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
 
+  <p>Things cats love:</p>
   <ul>
-    <li>Cat Nip</li>
-    <li>Yarn</li>
-    <li>Mice</li>
-    </ul>
+    <li>cat nip</li>
+    <li>laser pointers</li>
+    <li>lasagna</li>
+  </ul>
+  <p>Top 3 things cats hate:</p>
+<ol>
+  <li>Dogs</li>
+  <li>Mice</li>
+  <li>Dependency</li>
+  </ol>
 </main>
+

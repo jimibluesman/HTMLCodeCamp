@@ -15,10 +15,13 @@ Free Code Camp HTML
     <li>lasagna</li>
   </ul>
   <p>Top 3 things cats hate:</p>
-<ol>
-  <li>Dogs</li>
-  <li>Mice</li>
-  <li>Dependency</li>
+  <ol>
+    <li>flea treatment</li>
+    <li>thunder</li>
+    <li>other cats</li>
   </ol>
+<input type="text">
+
 </main>
+
 

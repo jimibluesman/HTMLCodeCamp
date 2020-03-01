@@ -20,8 +20,9 @@ Free Code Camp HTML
     <li>thunder</li>
     <li>other cats</li>
   </ol>
-<input type="text">
-
+  <form action="/submit-cat-photo">
+  <input type="text" placeholder="cat photo URL"></form>
 </main>
+
 
 

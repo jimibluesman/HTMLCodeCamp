@@ -21,8 +21,7 @@ Free Code Camp HTML
     <li>other cats</li>
   </ol>
   <form action="/submit-cat-photo">
-  <input type="text" placeholder="cat photo URL"></form>
+    <input type="text" placeholder="cat photo URL">
+    <button type="submit">Submit</button>
+  </form>
 </main>
-
-
-
